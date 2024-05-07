@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 ### Portfolio
-[![DunGreed](https://github.com/Hwang2442/Hwang2442/blob/main/DunGreed.jpeg)](https://hwaaang.notion.site/DUNGREED-a5c15b3d6f8d4eda9f2134084508f2aa) 
+[![DunGreed](https://github.com/Hwang2442/Hwang2442/blob/main/DunGreed.jpeg)](https://hwaaang.notion.site/DUNGREED-372249c15e96445f83088e3bc9818db4) 
 
 
 <!--
