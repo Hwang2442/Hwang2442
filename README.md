@@ -2,6 +2,7 @@
 
 ### Portfolio
 [![DunGreed](https://github.com/Hwang2442/Hwang2442/blob/main/DunGreed.jpeg)](https://hwaaang.notion.site/DUNGREED-372249c15e96445f83088e3bc9818db4) 
+[![River City Girls](https://github.com/Hwang2442/Hwang2442/blob/main/river-city-girls.jpg)](https://hwaaang.notion.site/River-City-Girls-4606130fc7db4daba9660d892270087c) 
 
 
 <!--
