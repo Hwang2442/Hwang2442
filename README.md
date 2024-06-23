@@ -1,11 +1,15 @@
 ### Hi there 👋
 
-### Portfolio
-[![DunGreed](https://github.com/Hwang2442/Hwang2442/blob/main/DunGreed.jpeg)](https://hwaaang.notion.site/DUNGREED-372249c15e96445f83088e3bc9818db4) 
-[![River City Girls](https://github.com/Hwang2442/Hwang2442/blob/main/river-city-girls.jpg)](https://hwaaang.notion.site/River-City-Girls-4606130fc7db4daba9660d892270087c) 
-[![Monument Valley](https://github.com/Hwang2442/Hwang2442/blob/main/3130634973_preview_20231228233009_1%20(1).jpg)](https://hwaaang.notion.site/Monument-Valley-31c5422b124f4c188bd91f63e122c712) 
-
-
+### Projects
+<a href="https://hwaaang.notion.site/Monument-Valley-31c5422b124f4c188bd91f63e122c712">
+  <img src="./Icons/MonumentValley.png" width="100px" height="100px" title="Monument Valley"/>
+</a> 
+<a href="https://hwaaang.notion.site/DUNGREED-372249c15e96445f83088e3bc9818db4">
+  <img src="./Icons/DunGreed.png" width="100px" height="100px" title="DUNGREED"/>
+</a>
+<a href="https://hwaaang.notion.site/River-City-Girls-4606130fc7db4daba9660d892270087c">
+  <img src="./Icons/RiverCityGirls.png" width="100px" height="100px" title="River City Girls"/>
+</a>
 
 <!--
 **Hwang2442/Hwang2442** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
