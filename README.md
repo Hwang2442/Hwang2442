@@ -1,23 +1,9 @@
 ### Hi there 👋
 
-### 🎨 Projects
-<a href="https://hwaaang.notion.site/Monument-Valley-31c5422b124f4c188bd91f63e122c712" target="_blank">
-  <img src="./Icons/MonumentValley.png" width="100px" height="100px" title="Monument Valley"/>
-</a>
-<a href="https://hwaaang.notion.site/DUNGREED-372249c15e96445f83088e3bc9818db4" text-decoration="none">
-  <img src="./Icons/DunGreed.png" width="100px" height="100px" title="DUNGREED"/>
-</a>
-<a href="https://hwaaang.notion.site/River-City-Girls-4606130fc7db4daba9660d892270087c" text-decoration="none">
-  <img src="./Icons/RiverCityGirls.png" width="100px" height="100px" title="River City Girls"/>
-</a>
-
+### 🎨 My Projects
+[![Monument Valley](./Icons/MonumentValley.png)](https://hwaaang.notion.site/Monument-Valley-31c5422b124f4c188bd91f63e122c712)
+[![Dungreed](./Icons/DunGreed.png)](https://hwaaang.notion.site/DUNGREED-372249c15e96445f83088e3bc9818db4)
 [![River City Girls](./Icons/RiverCityGirls.png)](https://hwaaang.notion.site/River-City-Girls-4606130fc7db4daba9660d892270087c)
-
-
-
-![https://hwaaang.notion.site/River-City-Girls-4606130fc7db4daba9660d892270087c](./Icons/RiverCityGirls.png)
-![https://hwaaang.notion.site/River-City-Girls-4606130fc7db4daba9660d892270087c](./Icons/RiverCityGirls.png)
-![https://hwaaang.notion.site/River-City-Girls-4606130fc7db4daba9660d892270087c](./Icons/RiverCityGirls.png)
 
 
 
