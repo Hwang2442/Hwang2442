@@ -2,6 +2,7 @@
 
 ### 🎨 My Projects
 [![FPS Game Creation](./Icons/ShootingGame_0.png)](https://hwaaang.notion.site/Simple-Shooting-Game-55efacf2d65947458c0818b03975357c)
+[![FPS Game Creation](./Icons/NexonFIFA4Assistant.png)](https://hwaaang.notion.site/NEXON-FIFA-ONLINE-4-ASSISTANT-8824ca4a7f6048269af3dd95e9c6adab)
 [![Monument Valley](./Icons/MonumentValley.png)](https://hwaaang.notion.site/Monument-Valley-31c5422b124f4c188bd91f63e122c712)
 [![Dungreed](./Icons/DunGreed.png)](https://hwaaang.notion.site/DUNGREED-372249c15e96445f83088e3bc9818db4)
 [![River City Girls](./Icons/RiverCityGirls.png)](https://hwaaang.notion.site/River-City-Girls-4606130fc7db4daba9660d892270087c)
