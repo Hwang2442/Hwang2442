@@ -1,6 +1,7 @@
 ### Hi there 👋
 
 ### 🎨 My Projects
+[![Modu Game](./Icons/modu_game.jpg)](https://hwaaang.notion.site/for-Kakao-1382a635076580a992cff1572a9f69a3)
 [![Hexa Tile Minigame](./Icons/HexaTileMinigame.png)](https://hwaaang.notion.site/Hexa-Tile-PathFinding-Game-f51b1dfe78a1406186519435691c8c57)
 [![FPS Game Creation](./Icons/ShootingGame_0.png)](https://hwaaang.notion.site/Simple-Shooting-Game-55efacf2d65947458c0818b03975357c)
 [![Nexon FC ONLINE 4 Assistant](./Icons/NexonFIFA4Assistant.png)](https://hwaaang.notion.site/NEXON-FIFA-ONLINE-4-ASSISTANT-8824ca4a7f6048269af3dd95e9c6adab)
