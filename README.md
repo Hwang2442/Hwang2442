@@ -25,6 +25,12 @@
 [![Nexon FC ONLINE 4 Assistant](./Icons/NexonFIFA4Assistant.png)](https://hwaaang.notion.site/NEXON-FIFA-ONLINE-4-ASSISTANT-8824ca4a7f6048269af3dd95e9c6adab)
 [![Simple Tetris](./Icons/Tetris.png)](https://hwaaang.notion.site/Simple-TETRIS-ec490fb2894d42e797ebab97426620e6)
 [![Monument Valley](./Icons/MonumentValley.png)](https://hwaaang.notion.site/Monument-Valley-31c5422b124f4c188bd91f63e122c712)
+
+</div>
+
+<div align= "center">
+    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🎨 C++ Projects 🎨 </h2> <br> 
+  
 [![Dungreed](./Icons/DunGreed.png)](https://hwaaang.notion.site/DUNGREED-372249c15e96445f83088e3bc9818db4)
 [![River City Girls](./Icons/RiverCityGirls.png)](https://hwaaang.notion.site/River-City-Girls-4606130fc7db4daba9660d892270087c)
 [![DragonBall Z](./Icons/DragonBall_Z.png)](https://hwaaang.notion.site/Dragon-Ball-b3ba3f6210e6412fa47bf62ab184f00a)
